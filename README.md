@@ -13,7 +13,7 @@ Repo 3: backend repo to handle parser ops
 App-repo: [expense-manager-app-backend-parser](https://github.com/Project-MRP/expense-manager-backend-parser)
 
 Repo 4: frontend repo  
-App-name: [1 out of above]  
+App-name: `unknown`  
 App-repo: [expense-manager-app-frontend](https://github.com/Project-MRP/expense-manager-frontend)
 
 
