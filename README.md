@@ -32,7 +32,8 @@ Competitor apps pricing: https://docs.google.com/spreadsheets/d/10tOv7yQlZ0UXvZM
 
 ### Learning
 1. Markdown: https://www.markdownguide.org/basic-syntax/  
-2. 
+2. Submodule concepts: [Link1](https://www.atlassian.com/git/tutorials/git-submodule), [Link2](https://www.reddit.com/r/node/comments/b5q28p/how_should_i_structure_my_git_repo_for_keeping/)  
+3. Flutter best practices: [link](https://engineering.verygood.ventures/)
 
 
 ### Other
