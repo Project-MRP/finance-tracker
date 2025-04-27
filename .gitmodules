@@ -1,9 +1,9 @@
-[submodule "expense-manager-frontend"]
-	path = expense-manager-frontend
-	url = https://github.com/Project-MRP/expense-manager-frontend.git
-[submodule "expense-manager-backend-crud"]
-	path = expense-manager-backend-crud
-	url = https://github.com/Project-MRP/expense-manager-backend-crud.git
-[submodule "expense-manager-backend-parser"]
-	path = expense-manager-backend-parser
-	url = https://github.com/Project-MRP/expense-manager-backend-parser.git
+[submodule "finance-tracker-app"]
+	path = finance-tracker-app
+	url = https://github.com/Project-MRP/finance-tracker-app.git
+[submodule "finance-tracker-api"]
+	path = finance-tracker-api
+	url = https://github.com/Project-MRP/finance-tracker-api.git
+[submodule "finance-tracker-importer"]
+	path = finance-tracker-importer
+	url = https://github.com/Project-MRP/finance-tracker-importer.git
